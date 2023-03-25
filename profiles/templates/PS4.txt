@@ -1,0 +1,31 @@
+        # PS4 Controller #
+#################################
+# |------------------|--------| #
+# | Tecla Joystick   | Código | #
+# |------------------|--------| #
+# | CROSS (X)        | 0      | #
+# | CIRCLE (O)       | 1      | #
+# | SQUARE (■)       | 2      | #
+# | TRIANGLE (▲)     | 3      | #
+# | SHARE            | 4      | #
+# | PS               | 5      | #
+# | OPTIONS          | 6      | #
+# | L3               | 7      | #
+# | R3               | 8      | #
+# | UP PAD           | 11     | #
+# | DOWN PAD         | 12     | #
+# | LEFT PAD         | 13     | #
+# | RIGHT PAD        | 14     | #
+# | TOUCH PAD        | 15     | #
+# |------------------|--------| #
+
+# Configuracion de los Botones #
+    # Para configurarlo debes escribir la tecla del teclado que quieres que se ejecute, #
+    # un signo de igualdad y el codigo del boton que quieres configurar. #
+    # Ejemplo: #
+      # C=0 | Cuando presiones el botón X del control, se ejecutará la tecla C del teclado. #
+
+UP=11
+DOWN=12
+LEFT=13
+RIGHT=14

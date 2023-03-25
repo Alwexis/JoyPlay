@@ -1,0 +1,35 @@
+    # Switch PRO Controller #
+#################################
+# |------------------|--------| #
+# | Tecla Joystick   | Código | #
+# |------------------|--------| #
+# | A                | 0      | #
+# | B                | 1      | #
+# | X                | 2      | #
+# | Y                | 3      | #
+# | MINUS (-)        | 4      | # 
+# | HOME (H)         | 5      | #
+# | PLUS (+)         | 6      | #
+# | LEFT STICK       | 7      | #
+# | RIGHT STICK      | 8      | #
+# | L                | 9      | #
+# | R                | 10     | #
+# | UP PAD           | 11     | #
+# | DOWN PAD         | 12     | #
+# | LEFT PAD         | 13     | #
+# | RIGHT PAD        | 14     | #
+# | CAPTURE (O)      | 15     | #
+# | ZL               | 16     | #
+# | ZR               | 17     | #
+# |------------------|--------| #
+
+# Configuracion de los Botones #
+    # Para configurarlo debes escribir la tecla del teclado que quieres que se ejecute, #
+    # un signo de igualdad y el codigo del boton que quieres configurar. #
+    # Ejemplo: #
+      # C=0 | Cuando presiones el botón A del control, se ejecutará la tecla C del teclado. #
+
+UP=11
+DOWN=12
+LEFT=13
+RIGHT=14

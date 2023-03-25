@@ -1,0 +1,25 @@
+    # XBOX 360 Controller #
+#################################
+# |------------------|--------| #
+# | Tecla Joystick   | Código | #
+# |------------------|--------| #
+# | A                | 0      | #
+# | B                | 1      | #
+# | X                | 2      | #
+# | Y                | 3      | #
+# | Back             | 6      | #
+# | Start            | 7      | #
+# | LEFT STICK       | 8      | #
+# | RIGHT STICK      | 9      | #
+# |------------------|--------| #
+
+# Configuracion de los Botones #
+    # Para configurarlo debes escribir la tecla del teclado que quieres que se ejecute, #
+    # un signo de igualdad y el codigo del boton que quieres configurar. #
+    # Ejemplo: #
+      # C=0 | Cuando presiones el botón A del control, se ejecutará la tecla C del teclado. #
+
+UP=11
+DOWN=12
+LEFT=13
+RIGHT=14
